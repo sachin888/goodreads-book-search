@@ -57,7 +57,7 @@ class BookDetails extends Component{
                                             </div>
                                             <div>
                                                 {
-                                                    result.bookDetail.publishDate.length > 8 && 
+                                                    result.bookDetail.publishDate.length > 7 && 
                                                     <p>
                                                         Published Date:{" "}
                                                         {result.bookDetail.publishDate}
