@@ -60,7 +60,7 @@ class BookDetails extends Component{
                                                     result.bookDetail.publishDate.length > 7 && 
                                                     <p>
                                                         Published Date:{" "}
-                                                        {result.bookDetail.publishDate}
+                                                        {new Date(result.bookDetail.publishDate).toDateString()}
                                                     </p>
                                                 }
                                                 
