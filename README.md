@@ -21,7 +21,7 @@ Start the application in development mode: <b>npm start</b><br/>
 To build the application : <b>npm run build </b> <br/>
 
 ## Application Feature
-1. Search for books by title and it will show all the relevant results.
-2. Click on the More Details like present in each card to get more details.
+1. Search the books by title and it will show all the relevant results.
+2. Click on the More Details link present in search result card to get more details.
 3. Click on Back To Search link present in book details page to go back to search list.
 4. On the book detail page you can see Title, Image , Author name, Rating, Description and Published date. 
